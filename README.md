@@ -11,5 +11,7 @@ Machine learning classification models used from Scikit-learn library in Python:
   - Support Vector Machine
 
 Hyper parameters tuning using Cross-Validation 'GridSearchCV'.
+
 Evaluation using Accuracy metric.
+
 Data visualisation of a confusion matrix.
