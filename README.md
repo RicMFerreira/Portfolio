@@ -18,7 +18,7 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
   - SQL (SQLite)
   - Data Visualisation (MatplotLib, Seaborn and Folium)
 
-4-Machine learning classification models used from Scikit-learn library, hyperparameter tuning and evaluation in Python:
+4-Machine learning classification models used from Scikit-learn library, hyperparameter tuning and evaluation:
   - K-Nearest Neighbors
   - Decision Tree
   - Logistic Regression
