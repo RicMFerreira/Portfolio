@@ -15,12 +15,10 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
 2-Data Wrangling
 
 3-Exploratory Data Analysis using:
-
-  -SQL (SQLite)
-  -Data Visualisation (MatplotLib, Seaborn and Folium)
+  - SQL (SQLite)
+  - Data Visualisation (MatplotLib, Seaborn and Folium)
 
 4-Machine learning classification models used from Scikit-learn library, hyperparameter tuning and evaluation in Python:
-
   - K-Nearest Neighbors
   - Decision Tree
   - Logistic Regression
